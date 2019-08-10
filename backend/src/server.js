@@ -22,7 +22,7 @@ io.on('connection', socket => {
 
 });
 
-mongoose.connect('mongodb+srv://cesarbalzer:24ce09sa1978r@cluster0-x3vwt.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://cesarbalzer:XXXXXXXXXXX@cluster0-x3vwt.mongodb.net/test?retryWrites=true&w=majority', {
     useNewUrlParser: true
 });
 
